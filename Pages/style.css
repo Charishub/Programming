@@ -1,0 +1,27 @@
+body {
+    background-color: bisque;
+}
+section {
+    background-color: rgb(240, 246, 229);
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: -1%;
+}
+h1 {
+    text-align: center;
+    text-size-adjust: 100px;
+    color: rgba(0, 0, 255, 0.862)
+}
+div {
+    display: grid;
+    place-items: center;
+    width:
+}
+p {
+    word-spacing: 30px;
+    text-align: center;
+    font-size: large;
+}
+ul {
+    font-size: large;
+}

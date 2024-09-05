@@ -1,0 +1,10 @@
+ .about {
+    /*flex-basis: 40%;*/
+    display: flex;
+    max-width: 500px;
+    margin:auto;
+    align-items: center;
+ }
+ .Experience {
+    padding: 10px;
+ }
